@@ -1,0 +1,4 @@
+As the optimal step size varies with panel conditions
+and characteristics, the located operating point might deviate
+from the MPP, having overshoot in the string voltage or sustained
+oscillation.
