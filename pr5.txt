@@ -1,0 +1,6 @@
+algorithm for PV systems operating under rapidly fluctuating
+irradiance is proposed. The first step determines the string voltage
+at which the GMPP appears. It is based on extracting the powervoltage
+characteristics of the string through varying the input
+impedance of the PPU to determine the approximate location of
+the GMPP.
