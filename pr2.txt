@@ -1,0 +1,4 @@
+[200~Among them, the P&O method is popular due to its simplicity in
+the operation. The idea is based on examining the gradient of the
+power variation against the panel voltage or current to adjust the
+operating point of the PPU to locate the MPPT.
