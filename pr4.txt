@@ -1,0 +1,3 @@
+The P&O methods are
+generally more suitable for strings with single MPP or MPP being
+located near the open-circuit voltage.
