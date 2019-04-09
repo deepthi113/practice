@@ -4,4 +4,4 @@ the power processing unit (PPU) in those systems also performs
 an important function of tracking and matching the
 maximum power point (MPP) of the string to deliver maximum
 power to the load. Many MPP tracking techniques, such as
-power-matching scheme.
+power-matching.
